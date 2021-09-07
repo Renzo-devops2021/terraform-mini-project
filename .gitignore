@@ -1,0 +1,6 @@
+.terraform*
+terraform.tfstate*
+my_public_key*
+README.md
+private_key.pem
+backend-test.tf
